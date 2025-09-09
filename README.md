@@ -1,4 +1,4 @@
-# DogPy
+# Brother
 
 1. create venv: `python3 -m venv .venv`
 2. activate `source .venv/bin/activate`
